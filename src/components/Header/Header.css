@@ -1,0 +1,33 @@
+.header{
+    background-color: #010c04;
+    color: rgb(255, 255, 255);
+    padding: 20px;
+    display: flex;
+}
+.logo {
+    height: 150px;
+    width: 230px;
+}
+.leftHeader h1{
+    color: #FDB900;
+    width: 230px;
+}
+.rightHeader{
+    /* margin: auto; */
+    margin-left: 3rem;
+}
+.right-content p{
+    margin: 8px 0px;
+}
+.budget {
+    font-size: 30px;
+    color: chartreuse;
+}
+.right-content h2 {
+    margin-top: 3rem;
+}
+.right-content {
+    margin: auto;
+    width: 80%;
+    /* margin-left: 5rem; */
+}

@@ -1,0 +1,57 @@
+[
+	{
+		"id": 1,
+		"name": "General Ledger Accounting Software",
+		"tech": "React",
+		"support_time": "12 months",
+		"last_updated": "12-09-2019",
+		"count": 250,
+		"price": 149,
+		"image": "https://s3.envato.com/files/349548874/Photo/01.PNG",
+		"ratting": 3.9
+	},
+	{
+		"id": 2,
+		"name": "Accounting and Billing Invoice Software",
+		"tech": "Laravel and Vuejs",
+		"support_time": "6 months",
+		"last_updated": "12-09-2020",
+		"count": 300,
+		"price": 100,
+		"image": "https://s3.envato.com/files/281054780/Screen_preview/11.NewSales.jpg",
+		"ratting": 4.9
+	},
+	{
+		"id": 3,
+		"name": "Cash Lite - Income & Expense Management",
+		"tech": "Codeigniter",
+		"support_time": "15 months",
+		"last_updated": "12-09-2018",
+		"count": 500,
+		"price": 80,
+		"image": "https://s3.envato.com/files/306395762/screenshots/1.PNG",
+		"ratting": 4.6
+	},
+	{
+		"id": 4,
+		"name": "Java Inventory Management Software For Pharmacies",
+		"tech": "Java",
+		"support_time": "24 months",
+		"last_updated": "12-09-2021",
+		"count": 1000,
+		"price": 800,
+		"image": "https://s3.envato.com/files/336470027/Hunritek%20App%20Screenshot/1.PNG",
+		"ratting": 4.3
+	},
+	{
+		"id": 5,
+		"name": "School Management System",
+		"tech": "React and Laravel",
+		"support_time": "5 months",
+		"last_updated": "5-08-2019",
+		"count": 600,
+		"price": 750,
+		"image": "https://smart-school.in/assets/admin/assets/img/features.png",
+		"ratting": 4.4
+	}
+]
